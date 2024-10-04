@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hey there 👋
+
+Here I am, a passionate web developer focusing on frontend technologies. 
+I love building user-friendly interfaces using HTML, CSS, and JavaScript. 💻✨
+
+- 👯 I'm always looking for interesting projects to contribute to, and I'm eager to grow and learn with others.
+- 📫 How to reach me: [my LinkedIn](https://linkedin.com/in/catrin-tornqvist)
+- 😄 Pronouns: She/her
+- ⚡ Fun fact: Passionate quad skater who loves spending time at my local skate park
 
 <!--
 **CatrinTQ/CatrinTQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
