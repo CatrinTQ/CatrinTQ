@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-Here I am, a passionate web developer focusing on frontend technologies. 
+Here I am, a passionate web developer focusing on frontend technologies located in Stockholm. 
 I love building user-friendly interfaces using HTML, CSS, and JavaScript. 💻✨
 
 - 👯 I'm always looking for interesting projects to contribute to, and I'm eager to grow and learn with others.
