@@ -4,7 +4,7 @@ Here I am, a passionate web developer focusing on frontend technologies located 
 I love building user-friendly interfaces using HTML, CSS, and JavaScript. 💻✨
 
 - 👯 I'm always looking for interesting projects to contribute to, and I'm eager to grow and learn with others.
-- 📫 How to reach me: [my LinkedIn](https://linkedin.com/in/catrin-tornqvist)
+- 📫 How to reach me: [my LinkedIn](https://linkedin.com/in/catrintq)
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I am a passionate quad skater who loves spending time at my local skate park
 
