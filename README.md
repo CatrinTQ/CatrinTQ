@@ -1,12 +1,11 @@
 ## About Me :smile:
 
-Hi, I’m Catrin!!!!
+Hi, I’m Catrin!
 
-I’m a passionate developer with a knack for creating efficient, scalable solutions. My journey in tech spans web development, .NET with C#, automation, and data analysis. I’m always excited to learn new technologies and collaborate on exciting projects.
+I’m a passionate developer with a knack for creating efficient, scalable solutions. My journey in tech spans web development, JavaScript, typescript and .NET with C#. I’m always excited to learn new technologies and collaborate on exciting projects.
 
-- :seedling: I’m currently exploring **Frontend Development** and **Data Visualization**.
-- :handshake: I’m looking to collaborate on **open-source projects** and **innovative web applications**.
-- :speech_balloon: Ask me about **JavaScript**, **C#**, **.NET** and **API's**.
+- :seedling: I’m currently exploring **Frontend Development** and **Node.js and Express.js**.
+- :speech_balloon: Ask me about **JavaScript**, **C#**, **.NET** and **API development**.
 - :mailbox: How to reach me: [catrin.tq@gmail.com](catrin.tq@gmail.com)
 - :zap: Fun fact: I'm pretty good at rollerskating
 ## :mailbox: Connect with Me
