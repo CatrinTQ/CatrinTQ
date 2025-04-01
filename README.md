@@ -27,29 +27,3 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/CatrinTQ)
 <img src="" alt="" width="" height="" />
 
 </p>
-
-
-<!--
-## Hey there 👋
-
-Here I am, a passionate web developer focusing on frontend technologies located in Stockholm. 
-I love building user-friendly interfaces using HTML, CSS, and JavaScript. 💻✨
-
-- 👯 I'm always looking for interesting projects to contribute to, and I'm eager to grow and learn with others.
-- 📫 How to reach me: [my LinkedIn](https://linkedin.com/in/catrintq)
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: I am a passionate quad skater who loves spending time at my local skate park
-
-**CatrinTQ/CatrinTQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
