@@ -7,7 +7,7 @@ I’m a passionate developer with a knack for creating efficient, scalable solut
 - :seedling: I’m currently exploring **Frontend Development**, **Node.js and Express.js**.
 - :speech_balloon: Ask me about **JavaScript**, **C#**, **.NET** and **API development**.
 - :mailbox: How to reach me: [catrin.tq@gmail.com](catrin.tq@gmail.com)
-- :zap: Fun fact: I'm pretty good at rollerskating
+- :zap: Fun fact: I'm pretty good at rollerskating :sunglasses:
 ## :mailbox: Connect with Me
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/CatrinTQ).
 ## :hammer_and_wrench: Tools I Use
