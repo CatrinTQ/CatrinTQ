@@ -1,10 +1,9 @@
-## About Me :smile:
+## Hi :wave:, I'm Catrin!
 
-Hi, I’m Catrin!
+About Me :smile:
+I'm a passionate developer with a knack for creating efficient, scalable solutions. My journey in tech spans web development, JavaScript, typescript and .NET with C#. I’m always excited to learn new technologies and collaborate on exciting projects.
 
-I’m a passionate developer with a knack for creating efficient, scalable solutions. My journey in tech spans web development, JavaScript, typescript and .NET with C#. I’m always excited to learn new technologies and collaborate on exciting projects.
-
-- :seedling: I’m currently exploring **Frontend Development**, **Node.js and Express.js**.
+- :seedling: I'm currently exploring **Frontend Development**, **Node.js and Express.js**.
 - :speech_balloon: Ask me about **JavaScript**, **C#**, **.NET** and **API development**.
 - :mailbox: How to reach me: [catrin.tq@gmail.com](catrin.tq@gmail.com)
 - :zap: Fun fact: I'm pretty good at rollerskating :sunglasses:
