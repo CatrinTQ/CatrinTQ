@@ -1,6 +1,7 @@
-## Hi :wave:, I'm Catrin!
+## About Me :smile:
 
-About Me :smile:
+Hi :wave:, I'm Catrin!
+
 I'm a passionate developer with a knack for creating efficient, scalable solutions. My journey in tech spans web development, JavaScript, typescript and .NET with C#. I’m always excited to learn new technologies and collaborate on exciting projects.
 
 - :seedling: I'm currently exploring **Frontend Development**, **Node.js and Express.js**.
