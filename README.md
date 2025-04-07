@@ -2,7 +2,7 @@
 
 Hi :wave:, I'm Catrin!
 
-I'm a passionate developer with a knack for creating responsive och user-friendly. My journey in tech spans web development, JavaScript, typescript and .NET with C#. I’m always excited to learn new technologies and collaborate on exciting projects.
+I'm a passionate developer with a knack for creating responsive och user-friendly solutions. My journey in tech spans web development, JavaScript, typescript and .NET with C#. I’m always excited to learn new technologies and collaborate on exciting projects.
 
 - :seedling: I'm currently exploring **Frontend Development**, **Node.js and Express.js**.
 - :speech_balloon: Ask me about **JavaScript**, **C#**, **.NET** and **API development**.
