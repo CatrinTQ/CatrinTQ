@@ -1,4 +1,4 @@
-## About Me :smile:
+## Hi :wave:, I'm Catrin! :smile:
 
-Hi :wave:, I'm Catrin!
+
 
